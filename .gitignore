@@ -1,0 +1,20 @@
+# 데이터 파일 (저작권 및 용량 문제로 제외)
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.pkl
+
+# 파이썬 자동 생성 파일 
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# 가상환경 및 설정
+.venv/
+env/
+.vscode/
+
+# 운영체제 임시 파일
+Thumbs.db
