@@ -1,7 +1,6 @@
-# F-B-Menu-Demand-Forecasting-LG-Aimers-7th-Hackathon
-**LG aimers 7기_D&amp;O 곤지암리조트 식음업장 수요예측 온라인 해커톤**
+# F&B-Menu-Demand-Forecasting-LG-Aimers-7th-Hackathon
 
-## 🍔 리조트 식음업장(F&B) 메뉴 수요 예측 AI 모델링
+## 🍔 **LG aimers 7기_D&amp;O 곤지암리조트 식음업장 수요예측 온라인 해커톤**
 **데이터 희소성(Sparsity) 문제를 극복하기 위한 트리 모델 및 Transformer 기반 앙상블 전략**
 
 **본 프로젝트는 LG AI 연구원에서 주관한 LG Aimers 7기 해커톤의 결과물로, 실제 비즈니스 환경의 데이터 제약 조건을 기술적으로 돌파하여 상위 5%의 성적을 거두었습니다.**
